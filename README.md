@@ -1,6 +1,6 @@
 # Perlin Noise Extension for Scratch 3.0
 
-
+<img width="323" alt="screenshot" src="https://user-images.githubusercontent.com/45020018/82853148-dd227380-9f3f-11ea-8e74-4664a80656cd.png">
 
 ## Screenshots
 
