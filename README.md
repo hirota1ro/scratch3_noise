@@ -4,6 +4,7 @@
 
 ## Screenshots
 
+<img width="1280" src="https://user-images.githubusercontent.com/45020018/82853748-84ec7100-9f41-11ea-814d-59bd677b2899.png">
 
 
 
